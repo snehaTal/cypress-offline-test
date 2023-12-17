@@ -1,0 +1,28 @@
+{
+  "name": "cypress-offline-test",
+  "version": "0.1.0",
+  "description": "This library helps to simulate offline browser features",
+  "main": "networkManager/networkManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snehaTal/cypress-offline-test.git"
+  },
+  "keywords": [
+    "Cypress",
+    "cypress offline browser testing",
+    "Browser offline",
+    "test cypress offline "
+  ],
+  "author": "Snehal Patil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snehaTal/cypress-offline-test/issues"
+  },
+  "homepage": "https://github.com/snehaTal/cypress-offline-test#readme",
+  "files": [
+    "networkManager/**/*"
+  ]
+}
